@@ -2,126 +2,239 @@
 
 # 👋 Hi, I'm Kamyar Mikaeelzadeh
 
-### Biomedical AI Researcher | Deep Learning for Medical Imaging | IoT & Embedded Systems Innovator
+### Medical AI Developer • Computer Vision • Deep Learning • Healthcare Technology
+
+Building AI-powered systems at the intersection of  
+**medicine, engineering, scientific computing, and real-world software.**
+
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kamyar_Mikaeelzadeh-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kamyar-mikaeelzadeh/)
+[![Instagram](https://img.shields.io/badge/Instagram-AI_MedX-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/ai_medx)
+[![YouTube](https://img.shields.io/badge/YouTube-AI_MedX-FF0000?style=flat&logo=youtube&logoColor=white)](https://youtube.com/@ai_med_x)
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0006--6219--7242-A6CE39?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0009-0006-6219-7242)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=flat&logo=gmail&logoColor=white)](mailto:kamyarmikaeelzadeh@gmail.com)
 
 </div>
 
 ---
 
-# 💫 About Me
+## 🧠 About Me
 
-### 🔭 I’m currently working on
-- Building scalable backend APIs with FastAPI and Django
-- AI-driven medical analysis pipelines (ECG, MRI, Teeth segmentation/classification)
-- Algorithmic trading backtesting and real-time execution systems
-- LLM-powered automation tools and Telegram bots
+I'm a developer and researcher focused on applying **Artificial Intelligence to healthcare and scientific problems**.
 
-### 🤝 I’m looking to collaborate on
-- High-performance backend infrastructure (FastAPI/Django)
-- Medical AI (ECG, MRI, dental image processing)
-- Trading automation, risk engines, and smart execution pipelines
-- LLM integrations, retrieval systems, and AI agents
+My work spans medical signal processing, medical imaging, computer vision, deep learning, spatiotemporal forecasting, backend development, and AI-assisted healthcare platforms.
 
-### 🧩 I’m looking for help with
-- Advanced medical imaging models and optimization
-- Distributed microservices for real-time trading data
-- GPU-optimized inference at scale
+I also co-founded **RayanDandan**, where I worked as COO and contributed to the technical and operational development of digital dental-health solutions.
 
-### 🌱 I’m currently learning
-- Advanced RAG architectures and LLM fine-tuning
-- Production observability for high-load systems
-- Hybrid medical AI + backend pipelines
+My main interests include:
 
-### 💬 Ask me about
-- Python, MATLAB, FastAPI, Django
-- Backend architecture, Docker, PostgreSQL
-- ECG/MRI/Dental AI projects
-- Algorithmic trading systems
-- LLM app integrations & Telegram bots
-
-### ⚡ Fun fact
-> I automate medical analysis, trading, and backend ops — everything that can run itself, should.
+- Medical AI & Medical Imaging
+- Computer Vision
+- Deep Learning
+- AI-assisted Clinical Systems
+- Biomedical Signal Processing
+- Scientific Machine Learning
+- Spatiotemporal Forecasting
+- AI-powered Web Applications
 
 ---
 
-## 🌐 Socials
+# 🚀 Featured Projects
 
-<div align="left">
+<table>
+<tr>
+<td width="50%">
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ai_medx)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kamyar-mikaeelzadeh)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kamyarmikaeelzadeh@gmail.com)
+### 🫀 ECG Signal Denoising
 
-</div>
+Residual deep autoencoder framework for removing noise from ECG signals while preserving clinically important morphology.
+
+**Highlights**
+- FCN-DAE
+- Residual Autoencoders
+- DRNN comparison
+- MIT-BIH Arrhythmia Database
+- SNR, PRD & RMSE evaluation
+
+**Tech:** TensorFlow • NumPy • SciPy • WFDB
+
+[View Repository →](https://github.com/kamyarmikaeelzade/ECG-Denoising-FCN-DAE-RES)
+
+</td>
+
+<td width="50%">
+
+### 🩺 Skin Lesion Classification
+
+Deep-learning pipeline for dermoscopic image classification using the ISIC dataset.
+
+**Highlights**
+- Transfer learning
+- Multiple CNN backbones
+- Medical-image preprocessing
+- Data augmentation
+- AUC, Precision & Recall evaluation
+
+**Tech:** TensorFlow • Keras • OpenCV • Scikit-learn
+
+[View Repository →](https://github.com/kamyarmikaeelzade/skin-lesion-classification-2017)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🌬 SAMGT Wind Forecasting
+
+A research framework for multi-horizon wind-vector forecasting over the Persian Gulf and Gulf of Oman.
+
+**SAMGT:**  
+Shamal-Aware Multi-Scale Graph Transformer
+
+**Highlights**
+- Graph-based spatial modeling
+- Transformer temporal modeling
+- Shamal regime awareness
+- Multi-horizon forecasting
+- Leakage-safe chronological evaluation
+- 2005–2020 meteorological data
+
+**Tech:** PyTorch • Xarray • NetCDF • GeoPandas • Scikit-learn
+
+[View Repository →](https://github.com/kamyarmikaeelzade/SAMGT-Wind-Forecasting)
+
+</td>
+
+<td width="50%">
+
+### 🤸 Real-Time Pose Detection
+
+Computer-vision system for real-time human pose estimation and movement analysis.
+
+**Highlights**
+- Pose landmark detection
+- Joint-angle calculation
+- Posture analysis
+- Movement tracking
+- Healthcare & physiotherapy applications
+
+**Tech:** MediaPipe • OpenCV • NumPy
+
+[View Repository →](https://github.com/kamyarmikaeelzade/pose-detection-ai)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🦷 RoboDent AI
+
+AI-assisted digital dental-health platform designed for preliminary oral and dental image analysis.
+
+**Capabilities**
+- Dental image analysis
+- OPG / intraoral / CBCT workflows
+- Tooth segmentation integration
+- AI-assisted reports
+- Smart specialist referral
+- Analysis history
+- User accounts & administration
+
+**Tech:** Python • Flask • AI APIs • Gradio • SQLite • Docker • Gunicorn
+
+[View Project →](https://github.com/kamyarmikaeelzade/robodent-web)
+
+</td>
+
+<td width="50%">
+
+### 🌦 Wind Speed Prediction System
+
+End-to-end deep-learning pipeline for meteorological wind-speed forecasting.
+
+**Highlights**
+- NetCDF processing
+- Spatial-temporal features
+- Lag-based feature engineering
+- Residual Dense Neural Network
+- MAE / RMSE / R² evaluation
+- Forecast export back to NetCDF
+
+**Tech:** TensorFlow • Keras • Xarray • Pandas • Polars • Scikit-learn
+
+</td>
+</tr>
+</table>
 
 ---
 
-# 💻 Tech Stack
+## 🦷 Digital Health & Product Development
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
-![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white)
-![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+### RayanDandan / RoboDent
+
+I co-founded **RayanDandan** and worked as its COO, contributing to the development of AI-assisted dental-health products.
+
+The underlying platform includes:
+
+- AI-assisted dental-image analysis
+- Panoramic, periapical, intraoral and CBCT workflows
+- Image segmentation integration
+- Structured dental reports
+- Smart specialist referral logic
+- User authentication and analysis history
+- Administrative management
+- Dockerized production deployment
 
 ---
 
-# 📊 GitHub Stats
+### 🛍 RoboStore
 
-<div align="center">
+A Flask-based marketplace designed for dental and university communities.
 
-![](https://github-readme-stats.vercel.app/api?username=kamyarmikaeelzade&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)
+The platform includes:
 
-![](https://nirzak-streak-stats.vercel.app/?user=kamyarmikaeelzade&theme=gotham&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kamyarmikaeelzade&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![](https://github-profile-trophy.vercel.app/?username=kamyarmikaeelzade&theme=shadow_red&no-frame=false&no-bg=false&margin-w=4)
-
-</div>
+- Buyer and seller systems
+- Product and order management
+- University-based recommendations
+- Academic-term filtering
+- Delivery-time filtering
+- Shopping cart and wishlist
+- Administration panel
+- Docker + Gunicorn deployment
 
 ---
 
-### ✍️ Dev Quote
+## 🔬 Research & Engineering Interests
 
-<div align="center">
+```text
+Medical AI
+├── Medical Image Analysis
+├── Biomedical Signal Processing
+├── Dental AI
+├── Computer Vision
+└── Explainable & Assistive AI
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+Deep Learning
+├── CNNs
+├── Residual Networks
+├── Autoencoders
+├── Transformers
+└── Graph-based Models
 
-</div>
+Scientific ML
+├── Time-Series Forecasting
+├── Spatiotemporal Modeling
+├── Meteorological Data
+├── NetCDF / Xarray
+└── Numerical Data Pipelines
 
----
-
-<div align="center">
-
-[![](https://visitcount.itsvg.in/api?id=kamyarmikaeelzade&icon=7&color=10)](https://visitcount.itsvg.in)
-
-</div>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+Software Engineering
+├── Python
+├── Flask
+├── REST / AI Services
+├── SQLite
+├── Docker
+└── Production Deployment
