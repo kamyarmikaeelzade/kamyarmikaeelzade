@@ -238,24 +238,58 @@ Software Engineering
 ├── SQLite
 ├── Docker
 └── Production Deployment
-🛠️ Core Technology Stack
-Artificial Intelligence & Machine Learning
-      
-Data & Scientific Computing
-    
-Backend & Deployment
-    
-Scientific & Geospatial Data
-   
-📌 What I'm Currently Focused On
+```
+
+---
+
+# 🛠️ Core Technology Stack
+
+### Artificial Intelligence & Machine Learning
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+
+### Data & Scientific Computing
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+### Backend & Deployment
+
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+### Scientific & Geospatial Data
+
+![Xarray](https://img.shields.io/badge/Xarray-Scientific_Data-blue?style=for-the-badge)
+![NetCDF](https://img.shields.io/badge/NetCDF-Atmospheric_Data-006699?style=for-the-badge)
+![GeoPandas](https://img.shields.io/badge/GeoPandas-Geospatial-139C5A?style=for-the-badge)
+
+---
+
+## 📌 What I'm Currently Focused On
+
 - Building reliable AI systems for healthcare
 - Medical and dental image analysis
 - Deep-learning research and experimentation
 - Computer-vision applications
 - Spatiotemporal forecasting
 - Turning AI research into practical software products
-🤝 Open to Collaboration
+
+---
+
+## 🤝 Open to Collaboration
+
 I'm interested in collaborating on:
+
 - Medical AI
 - Medical imaging
 - Computer vision
@@ -264,20 +298,29 @@ I'm interested in collaborating on:
 - Healthcare technology
 - AI-powered products
 - Research collaborations
-📩 Email: kamyarmikaeelzadeh@gmail.com
-📊 GitHub Activity
+
+📩 **Email:** [kamyarmikaeelzadeh@gmail.com](mailto:kamyarmikaeelzadeh@gmail.com)
+
+---
+
+# 📊 GitHub Activity
+
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=kamyarmikaeelzade&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" />
 
+<br>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamyarmikaeelzade&theme=github_dark&hide_border=true&layout=compact" />
 
 </div>
 
+---
+
 <div align="center">
 
-Building intelligent systems for better healthcare and real-world impact.
-AI MedX
+### Building intelligent systems for better healthcare and real-world impact.
+
+**AI MedX**
+
 </div>
-```
