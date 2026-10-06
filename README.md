@@ -238,3 +238,46 @@ Software Engineering
 ├── SQLite
 ├── Docker
 └── Production Deployment
+🛠️ Core Technology Stack
+Artificial Intelligence & Machine Learning
+      
+Data & Scientific Computing
+    
+Backend & Deployment
+    
+Scientific & Geospatial Data
+   
+📌 What I'm Currently Focused On
+- Building reliable AI systems for healthcare
+- Medical and dental image analysis
+- Deep-learning research and experimentation
+- Computer-vision applications
+- Spatiotemporal forecasting
+- Turning AI research into practical software products
+🤝 Open to Collaboration
+I'm interested in collaborating on:
+- Medical AI
+- Medical imaging
+- Computer vision
+- Deep-learning research
+- Scientific ML
+- Healthcare technology
+- AI-powered products
+- Research collaborations
+📩 Email: kamyarmikaeelzadeh@gmail.com
+📊 GitHub Activity
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=kamyarmikaeelzade&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" />
+
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamyarmikaeelzade&theme=github_dark&hide_border=true&layout=compact" />
+
+</div>
+
+<div align="center">
+
+Building intelligent systems for better healthcare and real-world impact.
+AI MedX
+</div>
+```
